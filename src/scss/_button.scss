@@ -1,0 +1,21 @@
+@import "./variable";
+
+
+.btn-konteynir{
+
+    button{
+        color: white;
+        margin-top: 5px;
+        border-radius:5px ;
+margin-bottom: 5px;
+
+
+    }
+&-small{
+    background-color:$beyaz ;
+    padding: 5px;
+}
+
+
+
+}
